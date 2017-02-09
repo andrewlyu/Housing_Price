@@ -1,0 +1,3 @@
+According to: http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
+* Ridge is a more stable method, and can show correlation between features.
+* Lasso can produce sparse solution and select features. 
